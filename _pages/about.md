@@ -18,6 +18,8 @@ I will start my PhD in Department of informatics [(Faculty of Science, Technolog
 
 Traditional detailed version of my CV can be downloaded here:
 [CV](./assets/pdf){:target="\_blank"}. I will also do my best to post here news and updates often.
+Apart from my academic life, I enjoy spending time in nature, traveling, playing Harmonic & Kalimba, and learning new languages (e.g. It, Fr).
+  
 
 <!---Please go to [Projects](/Projects/){:target="\_blank"}, [CV](/CV/){:target="\_blank"}, to find out more about my work.--->
 

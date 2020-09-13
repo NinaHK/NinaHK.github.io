@@ -1,6 +1,6 @@
 ---
 layout: about
-title: <strong>Nina</strong> H-Kivanani
+title: <strong>Nina</strong> H.Kivanani
 permalink: /
 description: <a href="">here</a>. Address. Contacts. Moto. Etc.
 
@@ -25,7 +25,7 @@ Apart from my academic life, I enjoy spending time in nature, traveling, playing
 <!---Please go to [Projects](/Projects/){:target="\_blank"}, [CV](/CV/){:target="\_blank"}, to find out more about my work.--->
 
 
-<i> My full name is "Nina Hosseini Kivanani", but in academic I use the abbreviated "Nina H-Kivanani" of my full name  and for papers, I use the <b>"Nina Hosseini-Kivanani"</b>.</i>
+<i> My full name is "Nina Hosseini Kivanani", but in academic I use the abbreviated "Nina H.Kivanani" of my full name  and for papers, I use the <b>"Nina Hosseini-Kivanani"</b>.</i>
 
 <p></p>
 <!---

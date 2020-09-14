@@ -2,7 +2,7 @@
 layout: page
 title: Mispronunciation detection
 description: Master thesis (MSc)
-img: /assets/img/3.jpg
+img: /assets/img/helloworld.webp
 importance: 2
 ---
 

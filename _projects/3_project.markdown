@@ -2,7 +2,7 @@
 layout: page
 title: Acoustic phonetics
 description: Master Thesis (MA)
-img: /assets/img/7.jpg
+img: /assets/img/vowels.png
 
 importance: 3
 ---

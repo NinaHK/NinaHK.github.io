@@ -3,7 +3,7 @@ layout: page
 title: project 1
 description: Project
 img: /assets/img/projectone.jpg
-importance: 1
+importance: 0
 ---
 
 From roads to education to social services, public goods provided by states can promote welfare and combat inequality. By the same token, when under provided, inefficient, or poorly targeted, these same goods and services can reduce welfare and entrench inequalities. Dominant approaches to the study of these pathologies have focused on politicians’ incentives to provide these goods. I instead focus on the state institutions themselves to understand how and why poor outcomes emerge.

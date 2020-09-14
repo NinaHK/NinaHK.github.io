@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Kurdish vowels
+title: Acoustics phonetics
 description: Master Thesis (MA)
 img: /assets/img/7.jpg
 

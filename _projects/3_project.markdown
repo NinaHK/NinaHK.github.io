@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Acoustics phonetics
+title: Acoustic phonetics
 description: Master Thesis (MA)
 img: /assets/img/7.jpg
 

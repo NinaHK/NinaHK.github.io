@@ -53,7 +53,7 @@ order: 5
 <ul>
   <li><a href="https://ict.fbk.eu/units/speechtek/">SpeechTek lab</a>, Bruno Kessler Center in Information and Communication Technology (FBK-ICT Irst Center)</li>
   <ul><li> Feb 2020 -- Sep 2020</li>
-  	<li>Supervisor: </li>
+  	<li>Supervisor: Giuseppe Daniele Falavigna, Roberto Gretter & Marco Matassoni </li>
   </ul>
 </ul>
 <ul>

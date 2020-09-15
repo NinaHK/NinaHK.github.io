@@ -2,7 +2,7 @@
 layout: about
 title: <strong>Nina</strong> H.Kivanani
 permalink: /
-description: <a href="">here</a>. Address. Contacts. Moto. Etc.
+
 
 profile:
   align: left
@@ -12,6 +12,7 @@ news: true
 social: true
 
 ---
+<!---description: <a href="">here</a>. Address. Contacts. Moto. Etc.--->
 Hello! I’m Nina.
 
 I will start my PhD in Department of informatics [(Faculty of Science, Technology and Medicine-FSTM)](http://reddit.com){:target="\_blank"} in November 2020 at University of Luxembourg in the NLP Lab. My supervisors is [Prof. Christoph Schommer](http://reddit.com){:target="\_blank"} .

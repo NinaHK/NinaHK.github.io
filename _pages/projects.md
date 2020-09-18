@@ -16,14 +16,23 @@ order: 3
     <a href="{{ project.redirect }}" target="_blank">
     {% else %}
     <a href="{{ project.url | relative_url }}">
-    {% endif %}  
+    {% endif %}
+      <div class="card hoverable">
+        {% if project.img %}
+        <img src="{{ project.img | relative_url }}" alt="project thumbnail">
+        {% endif %}
+        <div class="card-body">
+          <h2 class="card-title text-lowercase">{{ project.title }}</h2>
+          <p class="card-text">{{ project.description }}</p>
+          <div class="row ml-1 mr-1 p-0">
+<!---            
       <div class="card-img-overlay">
         {% if project.img %}
         <img src="{{ project.img | relative_url }}" alt="project thumbnail">
         {% endif %}
         <div class="card-img-overlay">
           <h5 class="card-title text-lowercase">{{ project.title }}</h5>
-          <div class="row ml-1 mr-1 p-0">
+          <div class="row ml-1 mr-1 p-0">--->
             {% if project.github %}
             <div class="github-icon">
               <div class="icon" data-toggle="tooltip" title="Code Repository">

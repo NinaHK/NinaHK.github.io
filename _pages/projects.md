@@ -17,11 +17,11 @@ order: 3
     {% else %}
     <a href="{{ project.url | relative_url }}">
     {% endif %}  
-      <!---<div class="card bg-dark text-black">--->
+      <div class="card bg-dark text-black">
         {% if project.img %}
         <img src="{{ project.img | relative_url }}" alt="project thumbnail">
         {% endif %}
-        <!---<div class="card-img-overlay">--->
+        <div class="card-img-overlay">
           <h5 class="card-title text-lowercase">{{ project.title }}</h5>
           <div class="row ml-1 mr-1 p-0">
             {% if project.github %}

@@ -17,7 +17,7 @@ order: 3
     {% else %}
     <a href="{{ project.url | relative_url }}">
     {% endif %}  
-      <div class="card bg-dark text-black">
+      <div class="card-img-overlay text-white d-flex flex-column justify-content-center">
         {% if project.img %}
         <img src="{{ project.img | relative_url }}" alt="project thumbnail">
         {% endif %}

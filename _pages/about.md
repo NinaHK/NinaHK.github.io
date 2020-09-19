@@ -5,7 +5,7 @@ permalink: /
 
 
 profile:
-  align: left
+  align: top
   image: n.png
 
 news: true

@@ -29,7 +29,7 @@ layout: default
           
           {% if page.profile.image %}
             <!---<img class="one" src="{{ page.profile.image | prepend: '/assets/img/' | prepend: site.baseurl | prepend: site.url }}">--->
-            <img class="wrap" src="{{ page.profile.image | prepend: '/assets/img/' | relative_url }}">
+            <img class="profile-details-wrapper" src="{{ page.profile.image | prepend: '/assets/img/' | relative_url }}">
           {% endif %}
           <!---{% if page.profile.address %}
             <div class="address">

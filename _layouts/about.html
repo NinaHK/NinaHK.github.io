@@ -25,7 +25,7 @@ layout: default
       </div>
         {% if page.profile %}
         <!---<div class="profile col-3 {% if page.profile.align == 'left' %}order-first{% endif %}">--->
-        <div class="profile col-3 {% if page.profile.align == 'left' %}order-first{% endif %}">
+        <div class="profile {% if page.profile.align == 'left' %}order-first{% endif %}">
           
           {% if page.profile.image %}
             <!---<img class="one" src="{{ page.profile.image | prepend: '/assets/img/' | prepend: site.baseurl | prepend: site.url }}">--->

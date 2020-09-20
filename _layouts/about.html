@@ -28,8 +28,8 @@ layout: default
         <div class="profile col one {% if page.profile.align == 'left' %}order-first{% endif %}">
           
           {% if page.profile.image %}
-            <img class="one" src="{{ page.profile.image | prepend: '/assets/img/' | prepend: site.baseurl | prepend: site.url }}">
-            <!---<img class="img-fluid z-depth-1 rounded" src="{{ page.profile.image | prepend: '/assets/img/' | relative_url }}">--->
+            <!---<img class="one" src="{{ page.profile.image | prepend: '/assets/img/' | prepend: site.baseurl | prepend: site.url }}">--->
+            <img class="img-fluid z-depth-1 rounded" src="{{ page.profile.image | prepend: '/assets/img/' | relative_url }}">
           {% endif %}
           <!---{% if page.profile.address %}
             <div class="address">

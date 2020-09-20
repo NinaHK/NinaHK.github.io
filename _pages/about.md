@@ -6,7 +6,7 @@ permalink: /
 
 profile:
   align: left
-  image: nmain.jpg
+  image: nmain2.jpg
 
 news: true
 social: true

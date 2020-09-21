@@ -6,7 +6,7 @@ permalink: /
 
 profile:
   align: left
-  image: memain.jpg
+  image: n.png
 
 news: true
 social: true

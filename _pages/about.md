@@ -14,7 +14,7 @@ social: true
 ---
 Hello! I’m Nina.
 
-I will start my PhD in Department of informatics [(Faculty of Science, Technology and Medicine-FSTM)](http://reddit.com){:target="\_blank"} in November 2020 at University of Luxembourg in the NLP Lab. My supervisors is [Prof. Christoph Schommer](http://reddit.com){:target="\_blank"} .
+I will start my PhD in Department of informatics [(Faculty of Science, Technology and Medicine-FSTM)](http://reddit.com){:target="\_blank"} soon at University of Luxembourg in the NLP Lab. My supervisors is [Prof. Christoph Schommer](http://reddit.com){:target="\_blank"} .
 
 Traditional detailed version of my CV can be downloaded here:
 [CV](./assets/pdf){:target="\_blank"}. I will also do my best to post here news and updates often. 

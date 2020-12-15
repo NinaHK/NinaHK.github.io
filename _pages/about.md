@@ -17,7 +17,7 @@ Hello! I’m Nina.
 A traditional detailed version of my CV can be downloaded here: [CV](./assets/pdf){:target="\_blank"}. I will also do my best to post here news and updates often.
 If you are still reading, here’s more about me: Apart from my academic life, I enjoy spending time in nature, mountains, traveling, playing Harmonic & Kalimba. I love learning new languages as well (e.g., It, Fr).
 
-If you are still reading, here’s more about me: Apart from my academic life, I enjoy spending time in nature, mountains, traveling, playing Harmonic & Kalimba. I love learning new languages as well (e.g. It, Fr).
+<!---If you are still reading, here’s more about me: Apart from my academic life, I enjoy spending time in nature, mountains, traveling, playing Harmonic & Kalimba. I love learning new languages as well (e.g. It, Fr).--->
 
 <!---Please go to [Projects](/Projects/){:target="\_blank"}, [CV](/CV/){:target="\_blank"}, to find out more about my work.--->
 

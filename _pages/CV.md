@@ -61,12 +61,6 @@ order: 5
   	<li>Supervisor: Giuseppe Daniele Falavigna (Head of Unit), Roberto Gretter & Marco Matassoni </li>
   </ul>
 </ul>
-<ul>
-  <li><a href="https://www.leibniz-zas.de/de/personen/details/zygis-marzena/marzena-zygis">Phonology Lab</a>, Leibniz-Zentrum Allgemeine Sprachwissenschaft (ZAS), Berlin</li>
-  <ul><li> Feb 2020 -- Present</li>
-  	<li>Supervisor: Dr. Żygis </li>
-  </ul>
-</ul>
 
 <ul>
   <li><a href="https://www.cimec.unitn.it/en/537/fairlab-group">Fairlab</a>, University of Trento</li>

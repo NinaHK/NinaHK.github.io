@@ -5,7 +5,7 @@ permalink: /
 
 
 profile:
-  align: left
+  align: justify
   image: n.png
 
 news: true
@@ -14,7 +14,9 @@ social: true
 ---
 Hello! I’m Nina.
 
-I specialize in phonetics, and acoustic analysis of speech, speech processing, and automatic speech recognition. But my research interests and experience span a broad range of topics such as cognitive, and computational linguistics.  If you are still reading, here’s more about me: Apart from my academic life, I enjoy spending time in nature, mountains, traveling, playing Harmonic & Kalimba. I love learning new languages as well (e.g., It, Fr).
+I specialize in phonetics, and acoustic analysis of speech, speech processing, and automatic speech recognition. But my research interests and experience span a broad range of topics such as cognitive, and computational linguistics.  
+
+If you are still reading, here’s more about me: Apart from my academic life, I enjoy spending time in nature, mountains, traveling, playing Harmonic & Kalimba. I love learning new languages as well (e.g., It, Fr).
 
 <!---If you are still reading, here’s more about me: Apart from my academic life, I enjoy spending time in nature, mountains, traveling, playing Harmonic & Kalimba. I love learning new languages as well (e.g. It, Fr).--->
 

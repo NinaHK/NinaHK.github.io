@@ -27,6 +27,7 @@ If you are still reading, here’s more about me: Apart from my academic life, I
 
 <!---Please go to [Projects](/Projects/){:target="\_blank"}, [CV](/CV/){:target="\_blank"}, to find out more about my work.--->
 
+
 <i> My full name is “Nina Hosseini Kivanani” but I use the abbreviated “Nina H.Kivanani” of my full name in academics. For papers, I use “Nina Hosseini-Kivanani”.</i>
 A traditional detailed version of my CV can be downloaded here: [CV](./assets/pdf){:target="\_blank"}. I will also do my best to post here news and updates often.
 

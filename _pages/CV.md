@@ -90,9 +90,9 @@ order: 5
   </div>
   <li>Italian</li>
     <div class="progress">
-  	<div class="progress-bar progress-bar-striped active" role="progressbar" aria-valuenow="60"
+  	<div class="progress-bar progress-bar-striped active" role="progressbar" aria-valuenow="65"
   aria-valuemin="0" aria-valuemax="100" style="width:70%">
-    B1
+    B2
    </div>
   </div>
   <li>German</li>
